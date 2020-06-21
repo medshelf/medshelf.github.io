@@ -5,7 +5,7 @@ parent: Biochemistry
 nav_order: 1
 ---
 
-# Carbohydrate Metabolism
+# Anki Guide
 {: .no_toc }
 
 ## Table of contents
@@ -13,10 +13,3 @@ nav_order: 1
 
 1. TOC
 {:toc}
-
----
-## Topic 1
-asdfasdfas
-## Topic 2
-asdfsadfasd
-### What the heck
