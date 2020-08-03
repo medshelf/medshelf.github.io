@@ -20,13 +20,22 @@ The heart is a pump which acts to circulate plasma around the body. Red blood ce
 
 Note that the heart even pumps blood to itself via the coronary arteries. Disturbances to the heart can cause loss of blood flow, and therefore oxygenation, to tissues like the heart (resulting in angina or myocardial infarction) and the brain (resulting in syncope or stroke).
 
+TALK ABOUT HEART ELECTROPHYS HERE
+
 ## Parallel Arrangement of the Circulation
 Notice that the cardiovascular system is one big loop or circuit in which blood continually circulates. Elements in a circuit, like organs in the cardiovascular circuit, could be connected either in series (one after the other) or in parallel (the circulation splits to feed all of the organs and then meets back up to return to the heart). Why might a system organized in series be undesirable? Just as breaking one lightbulb in a group of lightbulbs arranged in series will break the entire circuit, you can imagine that if we cut the flow of blood to one organ in this hypothetical circuit, all the organs after it will recieve less blood, and blood will back up and pool in the previous organs.
 
 Instead, the body's organs are organized in a parallel fashion so that the flow of blood to any one organ can be increased or decreased without affecting the other organs too much.
 
 ## The Vessels: Arteries, Veins, Lymphatics
+To circulate blood through a circuit, we need conduits in the form of the blood vessels: arteries and veins.
+
 ### Flow Equation (Q=P/R)
+\\[ \text{Flow} = {\text{Pressure difference} \over \text{Resistance}}
+\\]
+or
+\\[ \dot{Q} = { \Delta P \over {R}} ]\\
+
 ### Poiseuille's Law (vascular resistance)
 
 
